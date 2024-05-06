@@ -7,8 +7,8 @@ My first repository
 - [Pitch Perfect](https://www.imdb.com/title/tt1981677/?ref_=fn_al_tt_1)
 - [Three Idiots](https://www.imdb.com/title/tt1187043/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_three%2520idiots)
 
-`code`
-System.out.prinln(My Favorite Movies);
+`System.out.prinln(My Favorite Movies);`
+
 
 
 
