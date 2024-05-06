@@ -2,7 +2,6 @@
 My first repository
 
 # My Favorite Movie Series
-![My Favorite Movie] (image.jpg)
 ---
 - [Money Heist](https://www.imdb.com/title/tt6468322/)
 - [Pitch Perfect](https://www.imdb.com/title/tt1981677/?ref_=fn_al_tt_1)
